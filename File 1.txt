@@ -1,3 +1,4 @@
 linea 1
 esta es una linea agregada al original desde vs 2019
 nueva linea
+esta en area de cambios
